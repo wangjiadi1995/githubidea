@@ -5,5 +5,6 @@ public class Love {
         System.out.println("你好世界");
         System.out.println("你也好,晚安陌生人");
         System.out.println("你也好，亲爱的");
+        System.out.println("测试");
     }
 }
